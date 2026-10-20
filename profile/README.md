@@ -53,7 +53,7 @@ A modern, containerized stack focused on scalability, environment isolation, and
 | **Containerization** | Docker, Docker Compose |
 | **CI/CD** | GitHub Actions |
 | **Container Registry** | GitHub Container Registry (GHCR) |
-| **Hosting** | AWS EC2 (backend), Vercel (frontend) |
+| **Hosting** | Microsoft Azure VMs (backend), Vercel (frontend) |
 | **Reverse Proxy / TLS** | Nginx + Let's Encrypt (HTTPS) |
 | **Testing** | Jest |
 
